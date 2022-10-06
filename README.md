@@ -1,5 +1,5 @@
 # Proyecto-Final-Lp5
-Desarrollo y clonación de la aplicación Netflix; nuestra app tienen un login, página de inicio donde se hay una lista de peliculas, series, etc. Cuenta tambien con la página de busqueda, proximamente, descargas y perfil.
+Desarrollo y clonación de la aplicación Netflix; nuestra app tienen un login(usuario: usu, contraseña: pass), página de inicio donde se hay una lista de peliculas, series, etc. Cuenta tambien con la página de busqueda, proximamente, descargas y perfil.
 ![Imagen01](https://user-images.githubusercontent.com/111257323/194343370-df4334ce-53c1-44f8-8e92-2075d05cd95e.jpeg)
 ![Imagen02](https://user-images.githubusercontent.com/111257323/194343382-b0fbd0f5-58bd-477f-862d-71f946cf6400.png)
 ![Imagen03](https://user-images.githubusercontent.com/111257323/194343384-89bfb2f5-cd8c-4c18-8c49-4a50b606ef8b.png)
